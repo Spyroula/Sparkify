@@ -57,7 +57,7 @@ For this project we had to complete several tasks:
 
 ### Deploy <a name="deploy"></a>
 
-The main findings of our project can be found at the post available 
+The main findings of our project can be found at my [post](https://spyroula-masiala.medium.com/sparkify-a-churn-analysis-using-raw-events-and-pyspark-e62dcb0208f3) 
 
 
 ## Authors <a name="authors"></a>
